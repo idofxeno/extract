@@ -8,6 +8,6 @@ Example Usage:
 
 ###testuser@example:~$ perl extract.pl 500 1000 logfile.txt
 
-Executing the above command would display lines 500 to 1000 (inclusive) in 'logfile.txt' 
+Executing the above command would display lines 500 to 1000 (inclusive) in 'logfile.txt'.
 This utility can be nice when commands like 'head' and 'tail' pick up too much output you're not 
 particularly interested in.
