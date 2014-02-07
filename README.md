@@ -1,4 +1,4 @@
-extract.pl
+extract.plx
 =======
 Written in perl and must be invoked from the command line on a system that has perl installed (5.10 or higher)
 
