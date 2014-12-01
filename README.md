@@ -11,3 +11,5 @@ Example Usage:
 Executing the above command would display lines 500 to 1000 (inclusive) in 'logfile.txt'.
 This utility can be nice when commands like 'head' and 'tail' pick up too much output you're not 
 particularly interested in.
+
+NOTE: Yes there are other ways to do this, I am well aware :P
